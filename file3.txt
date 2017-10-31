@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+Diego
 file3
-=======
+Noreen
 lalalala
->>>>>>> 58a7c16aa32b99cd73c21ac1f8ccc1bd4ac995e0
